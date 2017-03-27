@@ -161,7 +161,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Welcome to GoGoShop?",
+          "title": "Welcome to GoGoShop!",
           "text": "This is a shoping website.<br>You can find everything you want!",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SEE MORE</a>",
           "_styles": {
